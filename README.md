@@ -89,16 +89,16 @@ This assignment demonstrates the implementation of logistic regression using bot
 - Comprehensive Documentation: Detailed comments explaining mathematical concepts and acronyms
 - Educational Value: Step-by-step implementation showing the mathematics behind logistic regression
 ## Key Learning Outcomes
-- High-Dimensional Geometry: Understanding how distance metrics behave in high-dimensional spaces
-- Manual ML Implementation: Deep understanding of logistic regression mathematics and optimization
-- Data Engineering: Large-scale data processing with memory-efficient streaming
-- Model Evaluation: Comprehensive performance analysis using multiple metrics
-- Numerical Computing: Handling numerical stability issues in machine learning implementations
+- 🛑 High-Dimensional Geometry: Understanding how distance metrics behave in high-dimensional spaces
+- ⚒️ Manual ML Implementation: Deep understanding of logistic regression mathematics and optimization
+- 🚠 Data Engineering: Large-scale data processing with memory-efficient streaming
+- 🔎 Model Evaluation: Comprehensive performance analysis using multiple metrics
+- 🔢 Numerical Computing: Handling numerical stability issues in machine learning implementations
 ## Technologies Used
-- PyTorch: For tensor operations and manual gradient computation
-- scikit-learn: For comparison implementation and preprocessing utilities
-- PyArrow: For efficient large file processing
-- NumPy/Pandas: For data manipulation and analysis
-- Matplotlib: For visualization and results presentation
+- 🔦 PyTorch: For tensor operations and manual gradient computation
+- 🧪 scikit-learn: For comparison implementation and preprocessing utilities
+- 🏹 PyArrow: For efficient large file processing
+- 🐼 NumPy/Pandas: For data manipulation and analysis
+- 📈 Matplotlib: For visualization and results presentation
 
 This implementation demonstrates both theoretical understanding and practical engineering skills in machine learning, showcasing the ability to implement algorithms from scratch while handling real-world data challenges.
