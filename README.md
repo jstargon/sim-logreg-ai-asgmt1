@@ -1,4 +1,4 @@
-# Briefing:
+# 💼 Briefing:
 
 ## Assignment 1 (undergrad) CS 370 
 ## Date: 9/28/25
@@ -15,7 +15,7 @@
 
 
 
-# In-Depth:
+# 🌊 In-Depth:
 
 ## Assignment 1: Logistic Regression Implementation
 This assignment demonstrates the implementation of logistic regression using both scikit-learn and manual PyTorch implementations, applied to click-through rate (CTR) prediction.
