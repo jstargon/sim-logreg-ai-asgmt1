@@ -187,3 +187,5 @@ log/
 
 # Personal Notes
 assignments/assignment-1/personal-*.ipynb
+
+assignments/assignment-1/*.gz
